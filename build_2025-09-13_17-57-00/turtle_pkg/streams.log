@@ -1,0 +1,21 @@
+[0.963s] Invoking command in '/home/yassin/ROS2_task5/src/turtle_pkg': PYTHONPATH=/home/yassin/ROS2_task5/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yassin/ROS2_task5/install/turtle_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_pkg build --build-base /home/yassin/ROS2_task5/build/turtle_pkg/build install --record /home/yassin/ROS2_task5/build/turtle_pkg/install.log --single-version-externally-managed install_data
+[1.254s] running egg_info
+[1.276s] writing ../../build/turtle_pkg/turtle_pkg.egg-info/PKG-INFO
+[1.276s] writing dependency_links to ../../build/turtle_pkg/turtle_pkg.egg-info/dependency_links.txt
+[1.277s] writing entry points to ../../build/turtle_pkg/turtle_pkg.egg-info/entry_points.txt
+[1.277s] writing requirements to ../../build/turtle_pkg/turtle_pkg.egg-info/requires.txt
+[1.277s] writing top-level names to ../../build/turtle_pkg/turtle_pkg.egg-info/top_level.txt
+[1.321s] reading manifest file '../../build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[1.322s] writing manifest file '../../build/turtle_pkg/turtle_pkg.egg-info/SOURCES.txt'
+[1.322s] running build
+[1.322s] running build_py
+[1.323s] running install
+[1.330s] running install_lib
+[1.353s] running install_data
+[1.353s] running install_egg_info
+[1.374s] removing '/home/yassin/ROS2_task5/install/turtle_pkg/lib/python3.12/site-packages/turtle_pkg-0.0.0-py3.12.egg-info' (and everything under it)
+[1.375s] Copying ../../build/turtle_pkg/turtle_pkg.egg-info to /home/yassin/ROS2_task5/install/turtle_pkg/lib/python3.12/site-packages/turtle_pkg-0.0.0-py3.12.egg-info
+[1.377s] running install_scripts
+[1.520s] Installing turtle_chase script to /home/yassin/ROS2_task5/install/turtle_pkg/lib/turtle_pkg
+[1.520s] writing list of installed files to '/home/yassin/ROS2_task5/build/turtle_pkg/install.log'
+[1.563s] Invoked command in '/home/yassin/ROS2_task5/src/turtle_pkg' returned '0': PYTHONPATH=/home/yassin/ROS2_task5/build/turtle_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yassin/ROS2_task5/install/turtle_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle_pkg build --build-base /home/yassin/ROS2_task5/build/turtle_pkg/build install --record /home/yassin/ROS2_task5/build/turtle_pkg/install.log --single-version-externally-managed install_data
